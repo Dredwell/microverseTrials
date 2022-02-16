@@ -1,0 +1,28 @@
+
+#title {
+    text-align: center;
+}
+
+#img-div{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+#image{
+    max-width: max-content;
+}
+
+#tribute-info{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#tribute-link{
+    display: block;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
